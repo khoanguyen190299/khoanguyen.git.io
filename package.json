@@ -1,7 +1,7 @@
 {
   "name": "vue-3",
   "version": "0.1.0",
-  "homepage": "https://khoanguyen190299.github.io/hcpm-app-042022",
+  "homepage": "https://khoanguyen190299.github.io/khoanguyen.git.io",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
